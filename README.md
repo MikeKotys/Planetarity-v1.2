@@ -1,6 +1,7 @@
 
 # Planetarity-v1.2
 Made by Mykhaylo Kotys.
+
 Task remarks:
 - "Implement 3 types of rockets with different base stats (acceleration, weight, cooldown, etc.),
 which are distributed randomly amongst planets" - feature reworked. Every rocket type is available
